@@ -1,0 +1,2 @@
+userRef so that useEffect does not happen on first render:
+    https://medium.com/swlh/prevent-useeffects-callback-firing-during-initial-render-the-armchair-critic-f71bc0e03536
